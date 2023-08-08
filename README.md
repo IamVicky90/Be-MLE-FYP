@@ -1,6 +1,7 @@
 # Be-MLE
 Become a Machine Learning Engineer Project. 
 ## Table of Contents.
+  * [Intro Video](#welcome-to-my-project)
   * [Deplyment Link](#deployment-link)
   * [Credentials for the login/signin](#testing-credentials)
   * [Overview](#overview)
@@ -21,6 +22,9 @@ Become a Machine Learning Engineer Project.
   * [Kubernatives BeMLE Local SetUp with minikube](#local-setup-with-minikube)
   * [Kubernatives BeMLE Cloud SetUP with eksctl](#kubernatives-cloud-setup)
   * [License](#license)
+
+## Welcome to my project
+- Here's a video introduction <a href= https://www.youtube.com/embed/sv41u6_xQdE target="_blank"> Click here</a>
 ## Deployment Link 
 - Deployment is done on ec2 AWS  <a href= http://35.194.69.17:5000/ target="_blank"> Click here</a>
 ## Testing Credentials
